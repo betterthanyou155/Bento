@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: 'Divyansh',
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
 
   // Greetings
   greetingMorning: 'Good morning!',
