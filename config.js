@@ -107,8 +107,8 @@ const CONFIG = {
         link: 'https://webk.telegram.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'MonkeyType',
+        link: 'https://monkeytype.com/',
       },
       {
         name: 'Fitgirl',
