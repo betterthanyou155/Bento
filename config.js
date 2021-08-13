@@ -78,27 +78,27 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'globe',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Duolingo',
+        link: 'https://www.duolingo.com/learn',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Wolfram Alpha',
+        link: 'https://www.wolframalpha.com/',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Desmos',
+        link: 'https://www.desmos.com/calculator',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Speedtest',
+        link: 'https://speedtest.net/',
       },
     ],
     secondList: [
@@ -111,8 +111,8 @@ const CONFIG = {
         link: 'https://monkeytype.com/',
       },
       {
-        name: 'Fitgirl',
-        link: 'https://fitgirl-repacks.site',
+        name: 'Amazon',
+        link: 'https://amazon.in/',
       },
       {
         name: 'Quora',
