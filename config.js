@@ -49,9 +49,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Notion',
-      icon: 'trello',
-      link: 'https://notion.so/',
+      name: 'csTimer',
+      icon: 'box',
+      link: 'https://cstimer.net/',
     },
     {
       id: '4',
