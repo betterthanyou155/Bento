@@ -16,10 +16,10 @@ const CONFIG = {
   openInNewTab: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'Padh lena bhai pura din hai',
+  greetingAfternoon: 'Hope you are studying',
+  greetingEvening: 'Still studying?',
+  greetingNight: 'SO JA GADHE',
 
   // Weather
   weatherKey: '80b35a5fc2e578fc25cba7c41500c4b9',
@@ -67,9 +67,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Classroom',
+      name: 'Competishun',
       icon: 'book-open',
-      link: 'https://classroom.google.com/u/2/h',
+      link: 'https://online.competishun.com',
     },
   ],
 
